@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/trio-websocket/commit/e828e54cfcfe425d53688aac7acd14dd695560a5",
       "git:hexsha": "e828e54cfcfe425d53688aac7acd14dd695560a5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-trio/trio-websocket/commit/94fc77b863f70b4d15c16bf44b602224c5b5426f",
